@@ -1,6 +1,6 @@
 ### Hi, I'm blueloveTH 👋
 
-<!--[![my_gitHub_stats](https://github-readme-stats.vercel.app/api?username=blueloveTH)]() -->
+[![my_gitHub_stats](https://github-readme-stats.vercel.app/api?username=blueloveTH)]()
 
 - 🔭 I’m currently working on [Keras4Torch Team](https://github.com/keras4torch-team)
 - 🌱 I’m currently doing research about *Interpretable Machine Learning*
