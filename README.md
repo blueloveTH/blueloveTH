@@ -6,7 +6,6 @@ I'm an indie game developer & pixel artist that works on too many projects at on
 
 * [carrotlib](https://github.com/blueloveTH/carrotlib)🥕 2d game library in python
 * [pocketpy](https://github.com/blueloveTH/pocketpy) python for game scripting
-* a puzzle platformer game: `timestone`
-* a puzzle dungeon game: `magicpd`
+* `brogue-rpg` game
 
 ![my_gitHub_stats](https://github-readme-stats.vercel.app/api?username=blueloveTH)
